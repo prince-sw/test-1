@@ -1,0 +1,2 @@
+#Enter files to be ignored while pushing to local repo.
+secrets.txt
